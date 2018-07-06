@@ -28,7 +28,7 @@ logdir_prior: ~/pbuild_logs/prior
 # You can customize with a line like the following:
 # select: om
 
-select: om
+select: omi
 
 #
 # Systems to exclude in the build:
